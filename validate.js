@@ -136,6 +136,3 @@ const validar = (resultado) => {
       return true;
   }
 };
-// //2)Si no cumplieran con lo requerido, los mismos deberán mostrar un mensaje de 
-//error customizado utilizando la API de validación de HTML5 que le corresponda en cada caso. 
-//El elemento deberá además tener la clase error. 
